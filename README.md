@@ -141,16 +141,18 @@ Scaler: `StandardScaler`
 ## 📉 Model Visualizations
 
 ### 📌 Baseline Random Forest
-![Baseline RF](plots/baseline_rf_plot.png)
+<img width="1241" height="624" alt="image" src="https://github.com/user-attachments/assets/770b4677-d2dd-43bb-8fe6-98c8b5ef419a" />
+
 
 ### 📌 Simple Averaging Ensemble
-![Averaging Ensemble](plots/averaging_ensemble_plot.png)
+<img width="1241" height="624" alt="image" src="https://github.com/user-attachments/assets/127fb991-cf59-41f6-82c8-796ca7eb09ca" />
 
 ### 📌 Stacking Ensemble
-![Stacking Ensemble](plots/stacking_ensemble_plot.png)
+<img width="1241" height="624" alt="image" src="https://github.com/user-attachments/assets/a49575ca-fcf9-4b98-a779-42971c5bbb00" />
 
 ### 📌 Final Tuned Ensemble
-![Final Tuned Ensemble](plots/final_prediction.png)
+<img width="1241" height="624" alt="image" src="https://github.com/user-attachments/assets/0693acc0-5fad-4621-887c-371d187a2a21" />
+
 
 ---
 
@@ -164,7 +166,7 @@ pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn
 
 ### ▶️ Run the Notebook
 
-1. Open `new.ipynb`
+1. Open `TAVG_pipeline.ipynb`
 2. Execute cells sequentially
 3. View results in the output cells
 
@@ -174,15 +176,8 @@ pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn
 
 ```
 temperature-prediction/
-├── new.ipynb
+├── TAVG_pipeline.ipynb
 ├── train.csv
-├── plots/
-│   ├── tavg_over_time.png
-│   ├── correlation_heatmap.png
-│   ├── baseline_rf_plot.png
-│   ├── averaging_ensemble_plot.png
-│   ├── stacking_ensemble_plot.png
-│   └── final_prediction.png
 └── README.md
 ```
 
