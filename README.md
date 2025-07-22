@@ -1,4 +1,4 @@
-# 🌡️ Advanced Time-Series Temperature Prediction: A Complete Walkthrough
+# Advanced Time-Series Temperature Prediction: A Complete Walkthrough
 
 This project documents a **complete, end-to-end machine learning pipeline** for predicting the **average daily temperature (TAVG)**. Starting with raw historical weather data from multiple stations, we cover data analysis, advanced feature engineering, hyperparameter tuning, and high-performance ensemble models to achieve state-of-the-art accuracy.
 
