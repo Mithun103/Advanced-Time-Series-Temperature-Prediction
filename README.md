@@ -166,7 +166,7 @@ pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn
 
 ### ▶️ Run the Notebook
 
-1. Open `TAVG_pipeline.ipynb`
+1. Open `TAVG_Pipeline.ipynb`
 2. Execute cells sequentially
 3. View results in the output cells
 
@@ -176,7 +176,7 @@ pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn
 
 ```
 temperature-prediction/
-├── TAVG_pipeline.ipynb
+├── TAVG_Pipeline.ipynb
 ├── train.csv
 └── README.md
 ```
