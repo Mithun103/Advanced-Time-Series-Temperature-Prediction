@@ -68,16 +68,16 @@ Data columns (total 27 columns):
 ## 📊 Phase 3: Exploratory Data Analysis (EDA)
 
 ### TAVG Over Time
-
 📈 Shows seasonal fluctuations corresponding to summer/winter cycles.
+<img width="1241" height="509" alt="image" src="https://github.com/user-attachments/assets/5c21a11e-a969-4763-b598-56d0ac3e2432" />
 
-![TAVG Over Time](plots/tavg_over_time.png)
 
 ### Correlation Heatmap
 
 🎯 Temperature-based features (`TMAX`, `TMIN`) are highly correlated with `TAVG`.
 
-![Correlation Heatmap](plots/correlation_heatmap.png)
+<img width="1414" height="1305" alt="image" src="https://github.com/user-attachments/assets/167edbb3-8a5a-4130-85b1-529cff47fcc6" />
+
 
 ---
 
